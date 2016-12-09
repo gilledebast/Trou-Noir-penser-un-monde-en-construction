@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{459EC51C-5338-6904-B65C-3860BF6ACBB2}") = "trou noir unity", "Assembly-CSharp-firstpass.csproj", "{E01368A8-0369-F7AF-D7A2-D2989030BE1B}"
+EndProject
+Project("{459EC51C-5338-6904-B65C-3860BF6ACBB2}") = "trou noir unity", "Assembly-CSharp.csproj", "{98E2A97B-BBA7-CCC1-C0B1-EED63D49DFE0}"
+EndProject
+Project("{459EC51C-5338-6904-B65C-3860BF6ACBB2}") = "trou noir unity", "Assembly-CSharp-Editor.csproj", "{282A7D60-43B5-2E46-7DF3-09E78D520AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01368A8-0369-F7AF-D7A2-D2989030BE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01368A8-0369-F7AF-D7A2-D2989030BE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01368A8-0369-F7AF-D7A2-D2989030BE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01368A8-0369-F7AF-D7A2-D2989030BE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E2A97B-BBA7-CCC1-C0B1-EED63D49DFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E2A97B-BBA7-CCC1-C0B1-EED63D49DFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E2A97B-BBA7-CCC1-C0B1-EED63D49DFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E2A97B-BBA7-CCC1-C0B1-EED63D49DFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282A7D60-43B5-2E46-7DF3-09E78D520AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282A7D60-43B5-2E46-7DF3-09E78D520AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282A7D60-43B5-2E46-7DF3-09E78D520AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282A7D60-43B5-2E46-7DF3-09E78D520AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
